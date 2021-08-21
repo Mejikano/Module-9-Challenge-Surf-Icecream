@@ -18,9 +18,11 @@ This analysis was done for helping W.Avy with their due digillence regarding a s
 - 68% of the time (2 std dev) the temperature will not vary more than +/-3.25ºF for June and +/-3.75ºF in December 
 
 **June Temperature Stats**
+
 ![Oahu - June Temperatures](https://github.com/Mejikano/Module-9-Challenge-Surf-Icecream/blob/main/Resources/June_Temp_Stats.png)
 
 **December Temperature Stats**
+
 ![Oahu - December Temperatures](https://github.com/Mejikano/Module-9-Challenge-Surf-Icecream/blob/main/Resources/December_Temp_Stats.png)
 
 
