@@ -64,7 +64,9 @@ Below queries aggregates by month temperature and precipitations providing min, 
 Below Tables summarizes the results of suggested queries specified before.
 
 **Oahu All Months Temperatures**
+
 ![Oahu - All Months Temperatures](https://github.com/Mejikano/Module-9-Challenge-Surf-Icecream/blob/main/Resources/AllMonths_Temps.png)
 
 **Oahu All Months Precipitations**
+
 ![Oahu - All Months Precipitations](https://github.com/Mejikano/Module-9-Challenge-Surf-Icecream/blob/main/Resources/AllMonths_Precipitations.png)
